@@ -1,4 +1,6 @@
-package com.constructor;
+package com.constructorr;
+
+
 
 class cricketer {
     private String name;
