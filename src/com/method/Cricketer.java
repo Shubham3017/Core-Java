@@ -41,7 +41,7 @@ public class Cricketer {
      c5.country = "Australia";
      c5.role = "Bowler";
 
-     // Print their information
+     
      System.out.println("Cricketer Information:");
      System.out.println("----------------------");
      c1.displayInfo();
